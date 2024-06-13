@@ -1,6 +1,6 @@
 # companionpi/camera
 
-<center><img src="index.jpg" alt="ESP32-CAM"/></center>
+<p align="center"><img src="index.jpg" alt="ESP32-CAM"/></p>
 
 ## Overview
 
@@ -18,7 +18,7 @@ The source code is a modified version of this [**ESP32-CAM example sketch**][10]
 
 ### Software
 
--   [**Arduino IDE** (**v2** or newer)][2]
+-   [**Arduino IDE** (**v2.3.2** or newer)][2]
 -   [**ESP32 boards for Arduino (v2.0.16)**][3]
 -   [**ESP32-CAM Library** by **Junxiao Shi**][4]
 
@@ -40,7 +40,7 @@ It is [**recommended**][9] to set a slower upload speed (**115200 baud**) to ens
 
 New features and stability features will be added over time.
 
-### v1.0.0 (12 Jun 2024)
+### v1.0.0 (13 Jun 2024)
 
 -   Initial release
 
