@@ -38,7 +38,7 @@ It is [**recommended**][9] to set a slower upload speed (**115200 baud**) to ens
 
 ## History
 
-New features and stability features will be added over time.
+New patches and stability features will be added over time.
 
 ### v1.0.0 (13 Jun 2024)
 
